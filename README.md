@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amen-ikamba
-- 👀 I’m interested in creating and learning something new and fun
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on different frontend projects
+- 👀 I’m always interested in creating and learning something new 
+- 🌱 I’m currently majoring in CS/Data Science
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me iamendivine@gmail.com
 
 <!---
