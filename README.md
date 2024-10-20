@@ -14,7 +14,7 @@
 ```python
 class Amen:
     def __init__(self):
-        self.name = "Amen Ikamba"
+        self.name = "Amen Divine Ikamba"
         self.role = ["Product Enthusiast", "Data Science Student"]
         self.superpowers = ["Product Strategy", "Tech Implementation"]
         self.mission = "Creating impactful products through data-driven decisions"
