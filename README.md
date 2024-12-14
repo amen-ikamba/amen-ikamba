@@ -53,6 +53,7 @@ const productPhilosophy = {
 🔍 User Research & Analysis
 💡 Product Strategy
 🛠️ Technical Implementation
+👩🏿‍💻 Frontend Developement
 ```
 
 ## 🌟 Current Adventures
